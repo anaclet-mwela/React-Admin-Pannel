@@ -1,0 +1,24 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+body {
+  background-color: #efefef;
+}
+
+.wrapper-class {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  background-color: #ccc;
+}
+.editor-class {
+  background-color: #da1212;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  min-height: 300px;
+  box-shadow: 1px 1px 3px rgb(0, 0, 0);
+}
+.toolbar-class {
+  border: 1px solid #ccc;
+}
